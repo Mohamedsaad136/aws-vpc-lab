@@ -52,7 +52,7 @@ The architecture includes:
 - Class: `db.t3.micro`
 - AZ: `us-west-2a`
 - VPC: `My VPC`
-- Not publicly accessible ✅
+- Not publicly accessible 
 
 ---
 
